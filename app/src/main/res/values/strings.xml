@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hangman</string>
+
+    <string name="word_disconnected">Disconnected</string>
+    <string name="help_disconnected">Please enter an address!</string>
+    <string name="hint_disconnected">10.0.2.2</string>
+
+    <string name="help_default">Please enter your guess!</string>
+    <string name="hint_default">Your guess</string>
+
+    <string name="lives_prefix">Remaining lives: </string>
+    <string name="points_prefix">Points: </string>
+
+    <string name="illegal_char_prefix">Illegal character: "</string>
+    <string name="illegal_char_postfix">"</string>
+    <string name="unknown_address">Unknown address! Please try again!</string>
+</resources>
